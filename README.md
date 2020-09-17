@@ -14,7 +14,7 @@ Use this code to parse the data. Change the path of data = pd.read_csv(â€œpathâ€
 
 ## Prediction
 
-#### data_prediction3.ipynb (folder Prediction) 
+#### data_prediction3.ipynb
 
 It was made to:
 -	visualize some data using matplotlib and seaborn libraries and creating several plots.
