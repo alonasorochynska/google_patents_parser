@@ -1,5 +1,5 @@
 # google_patents_parser
-#### Extraction of names of patents, scraping of data, parsing
+## Extraction of names of patents, scraping of data, parsing
 
  ### patent_landscaping.ipynb
 First of all, it is necessary to collect names of patents and their links for future scraping and parsing. Patent landscaping is the process of finding patents related to a particular topic. To do that we are going to use Google Cloud and Big Query, Python, and Anaconda. You can read in detail about all the technical requirements here: (https://github.com/google/patents-public-data/tree/master/models/landscaping). For this code, you can skip TensorFlow and Keras part. For to run the landscaping code clone this repository.
